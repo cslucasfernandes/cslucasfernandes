@@ -4,5 +4,6 @@
 ## Estatísticas
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslucasfernandes&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/cslucasfernandes">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cslucasfernandes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
